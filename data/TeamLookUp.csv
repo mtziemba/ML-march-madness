@@ -1,0 +1,369 @@
+Team_Id,Team_Name
+1101,Abilene Chr,Abilene Christian
+1102,Air Force,Air Force
+1103,Akron
+1104,Alabama
+1105,Alabama A&M,Alabama Agricultural and Mechanical University
+1106,Alabama St,Alabama State,Alabama State University
+1107,Albany NY,Albany (NY),Albany
+1108,Alcorn St,Alcorn State,Alcorn State University
+1109,Alliant Intl
+1110,American Univ,American,American University
+1111,Appalachian St,Appalachian State,Appalachian State University
+1112,Arizona
+1113,Arizona St,Arizona State,Arizona State University
+1114,Ark Little Rock,Arkansas-Little Rock,Arkansas Little Rock,Arkansas at Little Rock,Little Rock
+1115,Ark Pine Bluff,Arkansas-Pine Bluff,Arkansas Pine Bluff,Arkansas at Pine Bluff
+1116,Arkansas
+1117,Arkansas St,Arkansas State,Arkansas State University
+1118,Armstrong St
+1119,Army
+1120,Auburn,Auburn University
+1121,Augusta
+1122,Austin Peay,Austin Peay State University
+1123,Ball St,Ball State,Ball State University
+1124,Baylor,Baylor University
+1125,Belmont,Belmont University
+1126,Bethune-Cookman,Bethune-Cookman University,Bethune Cookman
+1127,Binghamton,Binghamton University
+1128,Birmingham So,Birmingham-Southern,Birmingham Southern
+1129,Boise St,Boise State,Boise State University
+1130,Boston College
+1131,Boston Univ,Boston University
+1132,Bowling Green,Bowling Green State,Bowling Green State University
+1133,Bradley,Bradley University
+1134,Brooklyn
+1135,Brown
+1136,Bryant
+1137,Bucknell
+1138,Buffalo
+1139,Butler
+1140,BYU,Brigham Young
+1141,C Michigan,Central Michigan
+1142,Cal Poly SLO,Cal Poly
+1143,California,University of California
+1144,Campbell
+1145,Canisius
+1146,Cent Arkansas,Central Arkansas
+1147,Centenary,Centenary (LA)
+1148,Central Conn,Central Connecticut State,Central Connecticut
+1149,Charleston So,Charleston Southern
+1150,Charlotte
+1151,Chattanooga
+1152,Chicago St,Chicago State
+1153,Cincinnati
+1154,Citadel,The Citadel
+1155,Clemson
+1156,Cleveland St,Cleveland State
+1157,Coastal Car,Coastal Carolina
+1158,Col Charleston,College of Charleston
+1159,Colgate
+1160,Colorado
+1161,Colorado St,Colorado State
+1162,Columbia
+1163,Connecticut
+1164,Coppin St,Coppin State
+1165,Cornell
+1166,Creighton
+1167,CS Bakersfield,Cal State Bakersfield
+1168,CS Fullerton,Cal State Fullerton,Cal St Fullerton
+1169,CS Northridge,Cal State Northridge
+1170,CS Sacramento,Sacramento State
+1171,Dartmouth
+1172,Davidson
+1173,Dayton
+1174,Delaware
+1175,Delaware St,Delaware State
+1176,Denver
+1177,DePaul
+1178,Detroit,Detroit Mercy
+1179,Drake
+1180,Drexel
+1181,Duke
+1182,Duquesne
+1183,E Illinois,Eastern Illinois
+1184,E Kentucky,Eastern Kentucky
+1185,E Michigan,Eastern Michigan
+1186,E Washington,Eastern Washington
+1187,East Carolina
+1188,Edwardsville,Southern Illinois-Edwardsville,SIU Edwardsville
+1189,Elon
+1190,ETSU,East Tennessee State
+1191,Evansville
+1192,F Dickinson,Fairleigh Dickinson
+1193,Fairfield
+1194,FL Atlantic,Florida Atlantic
+1195,FL Gulf Coast,Florida Gulf Coast
+1196,Florida
+1197,Florida A&M
+1198,Florida Intl,Florida International,FIU
+1199,Florida St,Florida State
+1200,Fordham
+1201,Fresno St,Fresno State
+1202,Furman
+1203,G Washington,George Washington
+1204,Ga Southern,Georgia Southern
+1205,Gardner Webb,Gardner-Webb
+1206,George Mason
+1207,Georgetown
+1208,Georgia
+1209,Georgia St,Georgia State
+1210,Georgia Tech
+1211,Gonzaga
+1212,Grambling,Grambling St
+1213,Grand Canyon
+1214,Hampton
+1215,Hardin-Simmons
+1216,Hartford
+1217,Harvard
+1218,Hawaii
+1219,High Point
+1220,Hofstra
+1221,Holy Cross
+1222,Houston
+1223,Houston Bap,Houston Baptist
+1224,Howard
+1225,Idaho
+1226,Idaho St,Idaho State
+1227,IL Chicago,Illinois-Chicago
+1228,Illinois
+1229,Illinois St,Illinois State
+1230,Incarnate Word
+1231,Indiana
+1232,Indiana St,Indiana State
+1233,Iona
+1234,Iowa
+1235,Iowa St,Iowa State
+1236,IPFW
+1237,IUPUI
+1238,Jackson St,Jackson State
+1239,Jacksonville
+1240,Jacksonville St,Jacksonville State
+1241,James Madison
+1242,Kansas
+1243,Kansas St,Kansas State
+1244,Kennesaw,Kennesaw State,Kennesaw St
+1245,Kent,Kent State,Kent St
+1246,Kentucky
+1247,La Salle
+1248,Lafayette
+1249,Lamar
+1250,Lehigh
+1251,Liberty
+1252,Lipscomb
+1253,Long Beach St,Long Beach State
+1254,Long Island,Long Island University,LIU Brooklyn
+1255,Longwood
+1256,Louisiana Tech
+1257,Louisville
+1258,Loy Marymount,Loyola Marymount
+1259,Loyola MD,Loyola (MD)
+1260,Loyola-Chicago,Loyola (IL),Loyola Chicago
+1261,LSU,Louisiana State
+1262,MA Lowell,Massachusetts-Lowell,UMass Lowell
+1263,Maine
+1264,Manhattan
+1265,Marist
+1266,Marquette
+1267,Marshall
+1268,Maryland
+1269,Massachusetts
+1270,McNeese St,McNeese State
+1271,MD E Shore,Maryland-Eastern Shore,Maryland Eastern Shore
+1272,Memphis
+1273,Mercer
+1274,Miami FL,Miami (FL)
+1275,Miami OH,Miami (OH)
+1276,Michigan
+1277,Michigan St,Michigan State
+1278,Minnesota
+1279,Mississippi
+1280,Mississippi St,Mississippi State
+1281,Missouri
+1282,Missouri KC,Missouri-Kansas City,UMKC
+1283,Missouri St,Missouri State
+1284,Monmouth NJ,Monmouth
+1285,Montana
+1286,Montana St,Montana State
+1287,Morehead St,Morehead State
+1288,Morgan St,Morgan State
+1289,Morris Brown
+1290,MS Valley St,Mississippi Valley State,Mississippi Valley St
+1291,Mt St Mary's,Mount St. Mary's,Mount St Mary's
+1292,MTSU,Middle Tennessee,Middle Tennessee St
+1293,Murray St,Murray State
+1294,N Colorado,Northern Colorado
+1295,N Dakota St,North Dakota State
+1296,N Illinois,Northern Illinois
+1297,N Kentucky,Northern Kentucky
+1298,Navy
+1299,NC A&T,North Carolina A&T
+1300,NC Central,North Carolina Central
+1301,NC State,North Carolina State,North Carolina St
+1302,NE Illinois
+1303,NE Omaha,Nebraska-Omaha,Nebraska Omaha
+1304,Nebraska
+1305,Nevada
+1306,New Hampshire
+1307,New Mexico
+1308,New Mexico St,New Mexico State
+1309,New Orleans
+1310,Niagara
+1311,Nicholls St,Nicholls State
+1312,NJIT
+1313,Norfolk St,Norfolk State
+1314,North Carolina
+1315,North Dakota
+1316,North Florida
+1317,North Texas
+1318,Northeastern
+1319,Northern Arizona
+1320,Northern Iowa
+1321,Northwestern
+1322,Northwestern LA,Northwestern State,Northwestern St
+1323,Notre Dame
+1324,Oakland
+1325,Ohio
+1326,Ohio St,Ohio State
+1327,Okla City
+1328,Oklahoma
+1329,Oklahoma St,Oklahoma State
+1330,Old Dominion
+1331,Oral Roberts
+1332,Oregon
+1333,Oregon St,Oregon State
+1334,Pacific
+1335,Penn,Pennsylvania
+1336,Penn St,Penn State
+1337,Pepperdine
+1338,Pittsburgh
+1339,Portland
+1340,Portland St,Portland State
+1341,Prairie View,Prairie View A&M
+1342,Presbyterian
+1343,Princeton
+1344,Providence
+1345,Purdue
+1346,Quinnipiac
+1347,Radford
+1348,Rhode Island
+1349,Rice
+1350,Richmond
+1351,Rider
+1352,Robert Morris
+1353,Rutgers
+1354,S Carolina St,South Carolina State,South Carolina St
+1355,S Dakota St,South Dakota State,South Dakota St
+1356,S Illinois,Southern Illinois
+1357,Sacred Heart
+1358,Sam Houston St,Sam Houston State
+1359,Samford
+1360,San Diego
+1361,San Diego St,San Diego State
+1362,San Francisco
+1363,San Jose St,San Jose State
+1364,Santa Barbara,UC-Santa Barbara
+1365,Santa Clara
+1366,Savannah St,Savannah State
+1367,SC Upstate,South Carolina Upstate,USC Upstate
+1368,SE Louisiana,Southeastern Louisiana
+1369,SE Missouri St,Southeast Missouri State,Southeast Missouri St
+1370,Seattle
+1371,Seton Hall
+1372,SF Austin,Stephen F. Austin,Stephen F Austin
+1373,Siena
+1374,SMU,Southern Methodist
+1375,South Alabama
+1376,South Carolina
+1377,South Dakota
+1378,South Florida
+1379,Southern Miss,Southern Mississippi
+1380,Southern Univ,Southern
+1381,Southern Utah
+1382,St Bonaventure,St. Bonaventure
+1383,St Francis NY,St. Francis (NY),St. Francis NY
+1384,St Francis PA,Saint Francis (PA),St. Francis PA
+1385,St John's,St. John's (NY)
+1386,St Joseph's PA,Saint Joseph's
+1387,St Louis,Saint Louis
+1388,St Mary's CA,Saint Mary's (CA),Saint Mary's
+1389,St Peter's,Saint Peter's
+1390,Stanford
+1391,Stetson
+1392,Stony Brook
+1393,Syracuse
+1394,TAM C. Christi,Texas A&M-Corpus Christi,Texas A&M; Corpus Chris,Texas A&M Corpus Chris
+1395,TCU,Texas Christian
+1396,Temple
+1397,Tennessee
+1398,Tennessee St,Tennessee State
+1399,Tennessee Tech
+1400,Texas
+1401,Texas A&M
+1402,Texas St,Texas State
+1403,Texas Tech
+1404,TN Martin,Tennessee-Martin,Tennessee Martin
+1405,Toledo
+1406,Towson
+1407,Troy,Troy St.
+1408,Tulane
+1409,Tulsa
+1410,UTRGV,Texas-Rio Grande Valley,UT Rio Grande Valley
+1411,TX Southern,Texas Southern
+1412,UAB,Alabama-Birmingham,Alabama Birmingham,Alabama at Birmingham
+1413,UC Davis,UC-Davis
+1414,UC Irvine,UC-Irvine
+1415,UC Riverside,UC-Riverside
+1416,UCF,Central Florida
+1417,UCLA
+1418,ULL,Louisiana-Lafayette,Louisiana Lafayette
+1419,ULM,Louisiana-Monroe,Louisiana Monroe
+1420,UMBC,Maryland-Baltimore County
+1421,UNC Asheville,North Carolina-Asheville
+1422,UNC Greensboro,North Carolina-Greensboro
+1423,UNC Wilmington,North Carolina-Wilmington
+1424,UNLV,Nevada-Las Vegas
+1425,USC,Southern California
+1426,UT Arlington,Texas-Arlington
+1427,UT San Antonio,Texas-San Antonio,UTSA
+1428,Utah
+1429,Utah St,Utah State
+1430,Utah Valley,Utah Valley St
+1431,UTEP,Texas-El Paso
+1432,Utica
+1433,VA Commonwealth,Virginia Commonwealth,VCU
+1434,Valparaiso
+1435,Vanderbilt
+1436,Vermont
+1437,Villanova
+1438,Virginia
+1439,Virginia Tech
+1440,VMI,Virginia Military Institute
+1441,W Carolina,Western Carolina
+1442,W Illinois,Western Illinois
+1443,WKU,Western Kentucky
+1444,W Michigan,Western Michigan
+1445,W Salem St
+1446,W Texas A&M
+1447,Wagner
+1448,Wake Forest
+1449,Washington
+1450,Washington St,Washington State
+1451,Weber St,Weber State
+1452,West Virginia
+1453,WI Green Bay,Green Bay
+1454,WI Milwaukee,Milwaukee
+1455,Wichita St,Wichita State
+1456,William & Mary
+1457,Winthrop
+1458,Wisconsin
+1459,Wofford
+1460,Wright St,Wright State
+1461,Wyoming
+1462,Xavier
+1463,Yale
+1464,Youngstown St,Youngstown State
+1465,Southwest Missouri St.,Southwest Missouri St
+1466,Texas Pan American
+1467,Southwest Texas St
+1468,Winston-Salem St,Winston Salem St

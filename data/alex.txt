@@ -1,0 +1,33 @@
+Format of file needed to run classifier on 2017 data:
+Header:
+Rk,Year,Date,Region,Round,Seed0,School0,Seed1,School1,OT,Diff,City,State,Zipcode,Latitude,Longitude
+
+Rk: Can be a dummy int value
+Year: 2017
+Date: Dummy
+Region: Dummy
+Round: Put in in this format:
+	if rd == 'First Round':
+		return 0.9 * seed
+	elif rd == 'Second Round':
+		return 0.7 * seed
+	elif rd == 'Regional Semifinal' or rd == 'Third Round':
+		return 0.5 * seed
+	elif rd == 'Regional Final':
+		return 0.3 * seed
+	elif rd == 'National Semifinal':
+		return 0.15 * seed
+	elif rd == 'National Final':
+		return 0.1 * seed
+	elif rd == 'Opening Round' or rd == 'First Four':
+		return 0
+Seed0: Seed in int form
+School0: School id
+Seed1: Seed in int form
+School1: School id
+OT: dummy
+Diff: If School1 won the game, any positive integer, so you could put 1. If school0 won, make it >0. In the Kaggle dataset, it's the point differential in the game.
+City: Dummy, but if you put in the actual city, it might be easier to find the location of the game.
+State: Dummy, but same as above
+Zip: Dummy
+Latitude and Longitude columns: First number positive, 2nd negative. So if you google search `Durham NC coordinates`, make the second number negative. 
